@@ -1,14 +1,14 @@
 export const robots = [
     {
       id: 1,
-      name: 'Puli',
-      username: 'E Pushit',
+      name: 'Andi',
+      username: 'Roku',
       email: 'Sincere@april.biz'
     },
     {
       id: 2,
-      name: 'Pupushi ',
-      username: 'i Pulit',
+      name: 'Alan ',
+      username: 'Tocy',
       email: 'Shanna@melissa.tv'
     },
     {
